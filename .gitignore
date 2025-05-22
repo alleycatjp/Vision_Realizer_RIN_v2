@@ -3,3 +3,9 @@ __pycache__/
 __pycache__/
 rinenv/
 *.tar.gz
+venv/
+__pycache__/
+*.pyc
+*.log
+*.bak
+*.tar.gz
