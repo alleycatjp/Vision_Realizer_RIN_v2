@@ -1,0 +1,4 @@
+[project]
+name = "vision_realizer_rin"
+version = "0.0.1"
+dependencies = []

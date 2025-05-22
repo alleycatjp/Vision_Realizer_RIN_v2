@@ -1,0 +1,13 @@
+{"timestamp": "2025-05-16T18:53:14.238768", "exchange": "bitbank", "pair": "mask_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.350697", "exchange": "bitbank", "pair": "mask_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.457429", "exchange": "bitbank", "pair": "mask_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}
+{"timestamp": "2025-05-17T04:02:12.205478", "exchange": "bitbank", "pair": "mask_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:47.069749", "exchange": "bitbank", "pair": "mask_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.953898", "exchange": "bitbank", "pair": "mask_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.162591", "exchange": "bitbank", "pair": "mask_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:06.310051", "exchange": "bitbank", "pair": "mask_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:38.265201", "exchange": "bitbank", "pair": "mask_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:01.785080", "exchange": "bitbank", "pair": "mask_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:51.539844", "exchange": "bitbank", "pair": "mask_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.866010", "exchange": "bitbank", "pair": "mask_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T08:25:31.092626", "exchange": "bitbank", "pair": "mask_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}

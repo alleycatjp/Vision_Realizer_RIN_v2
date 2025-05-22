@@ -1,0 +1,5 @@
+{
+  "force_post_only": false,
+  "default_post_only": true,
+  "slippage_threshold": 0.001  
+}

@@ -1,0 +1,13 @@
+{"timestamp": "2025-05-16T18:53:14.237314", "exchange": "bitbank", "pair": "trx_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.348281", "exchange": "bitbank", "pair": "trx_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.453331", "exchange": "bitbank", "pair": "trx_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T04:02:12.203237", "exchange": "bitbank", "pair": "trx_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:47.066880", "exchange": "bitbank", "pair": "trx_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.951811", "exchange": "bitbank", "pair": "trx_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.158858", "exchange": "bitbank", "pair": "trx_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:06.218053", "exchange": "bitbank", "pair": "trx_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:38.058746", "exchange": "bitbank", "pair": "trx_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:01.563337", "exchange": "bitbank", "pair": "trx_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:51.319640", "exchange": "bitbank", "pair": "trx_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.859151", "exchange": "bitbank", "pair": "trx_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:25:30.893881", "exchange": "bitbank", "pair": "trx_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}

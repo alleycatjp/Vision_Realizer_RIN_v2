@@ -1,0 +1,13 @@
+{"timestamp": "2025-05-16T18:53:14.226962", "exchange": "bitbank", "pair": "doge_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.332090", "exchange": "bitbank", "pair": "doge_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.414894", "exchange": "bitbank", "pair": "doge_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 0.442}
+{"timestamp": "2025-05-17T04:02:12.188580", "exchange": "bitbank", "pair": "doge_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:47.045245", "exchange": "bitbank", "pair": "doge_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.936968", "exchange": "bitbank", "pair": "doge_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.137493", "exchange": "bitbank", "pair": "doge_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:05.508647", "exchange": "bitbank", "pair": "doge_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:36.637791", "exchange": "bitbank", "pair": "doge_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:00.015779", "exchange": "bitbank", "pair": "doge_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:49.840188", "exchange": "bitbank", "pair": "doge_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.814547", "exchange": "bitbank", "pair": "doge_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 0.943}
+{"timestamp": "2025-05-17T08:25:29.280603", "exchange": "bitbank", "pair": "doge_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}

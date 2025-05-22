@@ -1,0 +1,15 @@
+{"timestamp": "2025-05-16T18:53:14.194628", "exchange": "bitbank", "pair": "mana_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.280163", "exchange": "bitbank", "pair": "mana_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.287340", "exchange": "bitbank", "pair": "mana_jpy", "market": "range", "strategy": "rsi", "action": "sell", "score": 0.981}
+{"timestamp": "2025-05-17T04:02:12.140021", "exchange": "bitbank", "pair": "mana_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:46.975358", "exchange": "bitbank", "pair": "mana_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.890889", "exchange": "bitbank", "pair": "mana_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.065732", "exchange": "bitbank", "pair": "mana_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:03.256494", "exchange": "bitbank", "pair": "mana_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:32.100584", "exchange": "bitbank", "pair": "mana_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:44.276409", "exchange": "bitbank", "pair": "mana_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:55.112819", "exchange": "bitbank", "pair": "mana_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:45.016891", "exchange": "bitbank", "pair": "mana_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.667984", "exchange": "bitbank", "pair": "mana_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T08:25:23.571451", "exchange": "bitbank", "pair": "mana_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-19T13:23:05.581730", "exchange": "bitbank", "pair": "mana_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}

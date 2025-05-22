@@ -1,0 +1,1 @@
+class TemplateAdapter: name="template"

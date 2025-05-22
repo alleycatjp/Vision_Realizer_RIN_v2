@@ -1,0 +1,7 @@
+{
+  "short": 12,
+  "long": 26,
+  "signal": 9,
+  "bb_period": 20,
+  "bb_stddev": 2.0
+}

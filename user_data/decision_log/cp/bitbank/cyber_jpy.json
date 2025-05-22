@@ -1,0 +1,13 @@
+{"timestamp": "2025-05-16T18:53:14.240204", "exchange": "bitbank", "pair": "cyber_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.353095", "exchange": "bitbank", "pair": "cyber_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.463524", "exchange": "bitbank", "pair": "cyber_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T04:02:12.207831", "exchange": "bitbank", "pair": "cyber_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:47.072457", "exchange": "bitbank", "pair": "cyber_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.956103", "exchange": "bitbank", "pair": "cyber_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.165943", "exchange": "bitbank", "pair": "cyber_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:06.412920", "exchange": "bitbank", "pair": "cyber_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:38.487760", "exchange": "bitbank", "pair": "cyber_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:02.001388", "exchange": "bitbank", "pair": "cyber_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:51.746578", "exchange": "bitbank", "pair": "cyber_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.872592", "exchange": "bitbank", "pair": "cyber_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T08:25:31.299352", "exchange": "bitbank", "pair": "cyber_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}

@@ -1,0 +1,15 @@
+{"timestamp": "2025-05-16T18:53:14.193122", "exchange": "bitbank", "pair": "lpt_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.277581", "exchange": "bitbank", "pair": "lpt_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.281367", "exchange": "bitbank", "pair": "lpt_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}
+{"timestamp": "2025-05-17T04:02:12.137801", "exchange": "bitbank", "pair": "lpt_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:46.972067", "exchange": "bitbank", "pair": "lpt_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.888864", "exchange": "bitbank", "pair": "lpt_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.062435", "exchange": "bitbank", "pair": "lpt_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:03.146530", "exchange": "bitbank", "pair": "lpt_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:31.894759", "exchange": "bitbank", "pair": "lpt_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:44.062537", "exchange": "bitbank", "pair": "lpt_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:54.892879", "exchange": "bitbank", "pair": "lpt_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:44.809761", "exchange": "bitbank", "pair": "lpt_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.661101", "exchange": "bitbank", "pair": "lpt_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T08:25:23.327935", "exchange": "bitbank", "pair": "lpt_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-19T13:23:05.318315", "exchange": "bitbank", "pair": "lpt_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}

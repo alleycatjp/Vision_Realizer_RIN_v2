@@ -1,0 +1,13 @@
+{"timestamp": "2025-05-16T18:53:14.219961", "exchange": "bitbank", "pair": "avax_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.320708", "exchange": "bitbank", "pair": "avax_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.384994", "exchange": "bitbank", "pair": "avax_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}
+{"timestamp": "2025-05-17T04:02:12.177811", "exchange": "bitbank", "pair": "avax_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:47.029971", "exchange": "bitbank", "pair": "avax_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.926429", "exchange": "bitbank", "pair": "avax_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.121859", "exchange": "bitbank", "pair": "avax_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:04.992781", "exchange": "bitbank", "pair": "avax_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:35.609446", "exchange": "bitbank", "pair": "avax_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:58.912596", "exchange": "bitbank", "pair": "avax_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:48.729484", "exchange": "bitbank", "pair": "avax_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.781145", "exchange": "bitbank", "pair": "avax_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T08:25:28.049431", "exchange": "bitbank", "pair": "avax_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}

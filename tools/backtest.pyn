@@ -1,0 +1,124 @@
+#!/usr/bin/env python3
+# ===============================================
+# tools/backtest.py – 超シンプルお試しバックテスター
+# -----------------------------------------------
+#  • CSV（user_data/price_data/...）を読み込み
+#  • market_state → strategy_executor で判定
+#  • 疑似売買して最終 NAV と勝率を表示
+# ===============================================
+
+from __future__ import annotations
+
+import argparse
+import csv
+import json
+import math
+from datetime import datetime
+from pathlib import Path
+from typing import Any, Mapping
+
+from application.strategy_executor import evaluate_strategy
+from domain.market_state import detect_market_state
+from infrastructure.config_loader import get_paths, get_pair_config
+
+PATHS = get_paths()
+PATHS = PATHS
+PRICE_DIR = Path(PATHS["price_data"]).resolve()
+
+# ──────────────────────────────────────────────
+# ユーティリティ
+# ──────────────────────────────────────────────
+def load_prices(pair: str, dt_from: datetime, dt_to: datetime) -> list[dict]:
+    """<pair>.csv を読み込み、期間フィルタしてリスト返却"""
+    csv_path = PRICE_DIR / "bitbank" / f"{pair}.csv"
+    if not csv_path.exists():
+        raise FileNotFoundError(csv_path)
+    rows: list[dict] = []
+    with csv_path.open() as fp:
+        reader = csv.DictReader(fp)
+        for r in reader:
+            # ⇒ ISO 文字列 (Z 付き) → tz-aware → tz-none
+            ts = (
+                datetime.fromisoformat(r["timestamp"].replace("Z", "+00:00"))
+                .replace(tzinfo=None)
+            )
+            if dt_from <= ts <= dt_to:
+                rows.append({"ts": ts, "price": float(r["price"])})
+    return rows
+
+
+def pretty_jpy(x: float) -> str:
+    return f"¥{x:,.0f}"
+
+
+# ──────────────────────────────────────────────
+# バックテスト本体
+# ──────────────────────────────────────────────
+def backtest(pair: str, rows: list[Mapping[str, Any]]) -> dict[str, Any]:
+    cash = 1_000_000        # 初期 100 万円
+    position = 0.0          # 保有枚数
+    wins = losses = 0
+
+    for i in range(1, len(rows)):
+        df_slice = rows[max(0, i - 50) : i + 1]  # 直近 50 本だけ DataFrame 代わりに
+        close_series = [x["price"] for x in df_slice]
+
+        market = detect_market_state(close_series)
+        res = evaluate_strategy(pair, {"close": close_series}, market, params={})
+
+        price = rows[i]["price"]
+
+        if res["action"] == "buy" and cash > 0:
+            position = cash / price
+            cash = 0
+        elif res["action"] == "sell" and position > 0:
+            nav = position * price
+            if nav > 1_000_000:
+                wins += 1
+            else:
+                losses += 1
+            cash = nav
+            position = 0
+
+    final_nav = cash + position * rows[-1]["price"]
+    return {
+        "pair": pair,
+        "trades": wins + losses,
+        "wins": wins,
+        "losses": losses,
+        "final_nav_jpy": round(final_nav),
+        "start_price": rows[0]["price"],
+        "end_price": rows[-1]["price"],
+        "timestamp": datetime.utcnow().isoformat(timespec="seconds"),
+    }
+
+
+# ──────────────────────────────────────────────
+# CLI
+# ──────────────────────────────────────────────
+def parse_args() -> argparse.Namespace:
+    p = argparse.ArgumentParser(description="Quick backtester")
+    p.add_argument("--pairs", required=True, help="comma separated list, e.g. btc_jpy,eth_jpy")
+    p.add_argument("--from", dest="dt_from", required=True, help="YYYY-MM-DD")
+    p.add_argument("--to", dest="dt_to",   required=True, help="YYYY-MM-DD")
+    return p.parse_args()
+
+
+def main() -> None:
+    args = parse_args()
+    dt_from = datetime.fromisoformat(args.dt_from)
+    dt_to   = datetime.fromisoformat(args.dt_to)
+
+    all_results: list[dict] = []
+    for p in args.pairs.split(","):
+        rows = load_prices(p.strip(), dt_from, dt_to)
+        if len(rows) < 30:
+            print(f"[WARN] {p}: rows < 30 → スキップ")
+            continue
+        all_results.append(backtest(p.strip(), rows))
+
+    print(json.dumps(all_results, indent=2, ensure_ascii=False))
+
+
+if __name__ == "__main__":
+    main()

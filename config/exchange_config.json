@@ -1,0 +1,11 @@
+{
+  "bitbank": {
+    "rest_url": "https://public.bitbank.cc",
+    "ws_url": "wss://stream.bitbank.cc",
+    "maker_fee": -0.0002,
+    "taker_fee": 0.0005,
+    "max_leverage": 1,
+    "allowed": true,
+    "ticker_path": "/tickers"
+  }
+}

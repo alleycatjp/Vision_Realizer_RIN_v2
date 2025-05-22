@@ -1,0 +1,384 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:18:03.696 Uncaught app execution
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 121, in exec_func_with_error_handling
+    result = func()
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 645, in code_to_exec
+    exec(code, module.__dict__)
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 38, in <module>
+    st.session_state.enabled_pairs = {
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 39, in <dictcomp>
+    s: pdata[s.split("/")[0]][s.split("/")[1]][s.split("/")[2]].get("manual_enabled", True)
+AttributeError: 'bool' object has no attribute 'get'
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:19:24.430 Uncaught app execution
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 121, in exec_func_with_error_handling
+    result = func()
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 645, in code_to_exec
+    exec(code, module.__dict__)
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 38, in <module>
+    st.session_state.enabled_pairs = {
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 39, in <dictcomp>
+    s: pdata[s.split("/")[0]][s.split("/")[1]][s.split("/")[2]].get("manual_enabled", True)
+AttributeError: 'bool' object has no attribute 'get'
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:23:50.269 Script compilation error
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 553, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/magic.py", line 46, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.9/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 22
+    for c, exd in pdata.items():
+                               ^
+SyntaxError: invalid syntax
+2025-05-21 07:23:50.274 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:23:58.453 Script compilation error
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 553, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/magic.py", line 46, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.9/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 22
+    for c, exd in pdata.items():
+                               ^
+SyntaxError: invalid syntax
+2025-05-21 07:23:58.455 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8502
+  Network URL: http://10.128.0.2:8502
+  External URL: http://104.155.152.61:8502
+
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:26:44.701 Script compilation error
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 553, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/magic.py", line 46, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.9/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 22
+    for c, exd in pdata.items():
+                               ^
+SyntaxError: invalid syntax
+2025-05-21 07:26:44.704 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:27:57.492 Script compilation error
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 553, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/magic.py", line 46, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.9/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 22
+    for c, exd in pdata.items():
+                               ^
+SyntaxError: invalid syntax
+2025-05-21 07:27:57.496 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:29:38.141 Script compilation error
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 553, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/magic.py", line 46, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.9/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 22
+    for c, exd in pdata.items():
+                               ^
+SyntaxError: invalid syntax
+2025-05-21 07:29:38.144 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-05-21 07:30:47.843 Received event for non-watched file: /home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:30:50.969 Script compilation error
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 553, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/magic.py", line 46, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.9/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 23
+    def _enabled(meta):          # 辞書でも bool でも安全
+    ^
+SyntaxError: invalid syntax
+2025-05-21 07:30:50.973 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-05-21 07:31:32.668 Received event for non-watched file: /home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:32:47.542 Uncaught app execution
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 121, in exec_func_with_error_handling
+    result = func()
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 645, in code_to_exec
+    exec(code, module.__dict__)
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 24, in <module>
+    "enabled_pairs", {s: bool(pdata[s.split("/")[0]][s.split("/")[1]][s.split("/")[2]].get("manual_enabled", True)) for s in slugs}
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 24, in <dictcomp>
+    "enabled_pairs", {s: bool(pdata[s.split("/")[0]][s.split("/")[1]][s.split("/")[2]].get("manual_enabled", True)) for s in slugs}
+AttributeError: 'bool' object has no attribute 'get'
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:33:26.187 Uncaught app execution
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 121, in exec_func_with_error_handling
+    result = func()
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 645, in code_to_exec
+    exec(code, module.__dict__)
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 24, in <module>
+    "enabled_pairs", {s: bool(pdata[s.split("/")[0]][s.split("/")[1]][s.split("/")[2]].get("manual_enabled", True)) for s in slugs}
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 24, in <dictcomp>
+    "enabled_pairs", {s: bool(pdata[s.split("/")[0]][s.split("/")[1]][s.split("/")[2]].get("manual_enabled", True)) for s in slugs}
+AttributeError: 'bool' object has no attribute 'get'
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:35:26.138 Uncaught app execution
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 121, in exec_func_with_error_handling
+    result = func()
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 645, in code_to_exec
+    exec(code, module.__dict__)
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 29, in <module>
+    {s: flag(*s.split("/")) for s in slugs}
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 29, in <dictcomp>
+    {s: flag(*s.split("/")) for s in slugs}
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 24, in flag
+    m = pdata[c][e][p]
+KeyError: 'BITBANK'
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+
+2025-05-21 07:42:14.649 Script compilation error
+Traceback (most recent call last):
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 553, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "/home/makito_miyamoto/rinenv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/magic.py", line 46, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "/usr/lib/python3.9/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+  File "/home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py", line 11
+    with tab1:
+    ^
+IndentationError: expected an indented block
+2025-05-21 07:42:14.653 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-05-21 07:43:42.478 Received event for non-watched file: /home/makito_miyamoto/Vision_Realizer_RIN_v2/presentation/ui_streamlit/ui.py
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.128.0.2:8501
+  External URL: http://104.155.152.61:8501
+

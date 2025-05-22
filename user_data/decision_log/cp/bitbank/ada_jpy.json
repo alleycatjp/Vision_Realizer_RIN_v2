@@ -1,0 +1,16 @@
+{"timestamp": "2025-05-16T18:53:14.187549", "exchange": "bitbank", "pair": "ada_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.266324", "exchange": "bitbank", "pair": "ada_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.261180", "exchange": "bitbank", "pair": "ada_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T04:02:12.129007", "exchange": "bitbank", "pair": "ada_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:46.958802", "exchange": "bitbank", "pair": "ada_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.880429", "exchange": "bitbank", "pair": "ada_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.049110", "exchange": "bitbank", "pair": "ada_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:02.740654", "exchange": "bitbank", "pair": "ada_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:31.048672", "exchange": "bitbank", "pair": "ada_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:43.179503", "exchange": "bitbank", "pair": "ada_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:54.019653", "exchange": "bitbank", "pair": "ada_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:43.942328", "exchange": "bitbank", "pair": "ada_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.633891", "exchange": "bitbank", "pair": "ada_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T08:25:22.335061", "exchange": "bitbank", "pair": "ada_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-19T13:23:04.238951", "exchange": "bitbank", "pair": "ada_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}
+{"timestamp": "2025-05-19T13:23:37.422354", "exchange": "bitbank", "pair": "ada_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}

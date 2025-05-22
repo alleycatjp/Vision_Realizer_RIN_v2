@@ -1,0 +1,8 @@
+{
+  "transform_rules": {
+    "bitbank": {
+      "price_format": "float",
+      "date_format": "iso8601"
+    }
+  }
+}

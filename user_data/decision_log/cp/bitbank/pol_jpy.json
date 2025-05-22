@@ -1,0 +1,15 @@
+{"timestamp": "2025-05-16T18:53:14.191779", "exchange": "bitbank", "pair": "pol_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.274803", "exchange": "bitbank", "pair": "pol_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.277355", "exchange": "bitbank", "pair": "pol_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T04:02:12.135577", "exchange": "bitbank", "pair": "pol_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:46.968929", "exchange": "bitbank", "pair": "pol_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.886709", "exchange": "bitbank", "pair": "pol_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.059302", "exchange": "bitbank", "pair": "pol_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:03.045050", "exchange": "bitbank", "pair": "pol_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:31.683937", "exchange": "bitbank", "pair": "pol_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:43.822293", "exchange": "bitbank", "pair": "pol_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:54.673516", "exchange": "bitbank", "pair": "pol_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:44.598593", "exchange": "bitbank", "pair": "pol_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.654201", "exchange": "bitbank", "pair": "pol_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:25:23.074678", "exchange": "bitbank", "pair": "pol_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-19T13:23:05.055003", "exchange": "bitbank", "pair": "pol_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}

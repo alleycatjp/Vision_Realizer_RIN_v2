@@ -1,0 +1,5 @@
+{
+  "kill_switch_v2": true,
+  "risk_controller_v2": true,
+  "volume_checker_ipc": true
+}

@@ -1,0 +1,6 @@
+# config/params.yaml
+BTC:
+  WIN: [20, 40, 60]
+  cooldown_tick: [0, 3, 6]
+  tp_pct: [0.4, 0.6]
+  sl_pct: [0.15, 0.2]

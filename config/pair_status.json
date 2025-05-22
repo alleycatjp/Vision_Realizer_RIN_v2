@@ -1,0 +1,10 @@
+{
+  "cp": {
+    "bitbank": {
+      "btc_jpy": {
+        "enabled": true
+      }
+    }
+  },
+  "schema_version": 2
+}

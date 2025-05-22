@@ -1,0 +1,13 @@
+{"timestamp": "2025-05-16T18:53:14.203120", "exchange": "bitbank", "pair": "gala_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.294706", "exchange": "bitbank", "pair": "gala_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.321811", "exchange": "bitbank", "pair": "gala_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T04:02:12.153322", "exchange": "bitbank", "pair": "gala_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:46.994523", "exchange": "bitbank", "pair": "gala_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.903488", "exchange": "bitbank", "pair": "gala_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.085845", "exchange": "bitbank", "pair": "gala_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:03.855346", "exchange": "bitbank", "pair": "gala_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:33.375341", "exchange": "bitbank", "pair": "gala_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:56.461979", "exchange": "bitbank", "pair": "gala_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:46.338597", "exchange": "bitbank", "pair": "gala_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.708581", "exchange": "bitbank", "pair": "gala_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T08:25:25.061140", "exchange": "bitbank", "pair": "gala_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}

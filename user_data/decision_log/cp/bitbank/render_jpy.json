@@ -1,0 +1,16 @@
+{"timestamp": "2025-05-16T18:53:14.190362", "exchange": "bitbank", "pair": "render_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.272062", "exchange": "bitbank", "pair": "render_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.271156", "exchange": "bitbank", "pair": "render_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T04:02:12.133369", "exchange": "bitbank", "pair": "render_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:46.965634", "exchange": "bitbank", "pair": "render_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.884580", "exchange": "bitbank", "pair": "render_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.056006", "exchange": "bitbank", "pair": "render_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:02.951854", "exchange": "bitbank", "pair": "render_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:31.476402", "exchange": "bitbank", "pair": "render_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:43.606458", "exchange": "bitbank", "pair": "render_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:54.454976", "exchange": "bitbank", "pair": "render_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:44.374456", "exchange": "bitbank", "pair": "render_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.647599", "exchange": "bitbank", "pair": "render_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T08:25:22.836200", "exchange": "bitbank", "pair": "render_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-19T13:23:04.800381", "exchange": "bitbank", "pair": "render_jpy", "market": "trend", "strategy": "macd", "action": "buy", "score": 0.05302}
+{"timestamp": "2025-05-19T13:23:37.941441", "exchange": "bitbank", "pair": "render_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}

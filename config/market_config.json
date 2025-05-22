@@ -1,0 +1,15 @@
+{
+  "trend": {
+    "ma_distance_threshold": 0.01,         
+    "adx_threshold": 25                    
+  },
+  "range": {
+    "volatility_threshold": 0.005          
+  },
+  "volatility": {
+    "sudden_move_threshold": 0.02          
+  },
+  "common": {
+    "lookback_period": 20                  
+  }
+}

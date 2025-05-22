@@ -1,0 +1,8 @@
+{
+  "root": ".",
+  "config_dir": "{root}/config",
+  "price_data_dir": "{root}/user_data/price_data/{asset}/{exchange}/{pair}",
+  "decision_log_dir": "{root}/user_data/decision_log/{asset}/{exchange}/{pair}",
+  "log_dir": "{root}/logs",
+  "tmp_dir": "{root}/tmp"
+}

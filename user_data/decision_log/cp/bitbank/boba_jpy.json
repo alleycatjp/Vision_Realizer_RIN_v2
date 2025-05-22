@@ -1,0 +1,13 @@
+{"timestamp": "2025-05-16T18:53:14.221313", "exchange": "bitbank", "pair": "boba_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.322932", "exchange": "bitbank", "pair": "boba_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.391002", "exchange": "bitbank", "pair": "boba_jpy", "market": "range", "strategy": "rsi", "action": "sell", "score": 0.873}
+{"timestamp": "2025-05-17T04:02:12.180004", "exchange": "bitbank", "pair": "boba_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:47.033300", "exchange": "bitbank", "pair": "boba_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.928612", "exchange": "bitbank", "pair": "boba_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.124876", "exchange": "bitbank", "pair": "boba_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:05.093558", "exchange": "bitbank", "pair": "boba_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:35.815230", "exchange": "bitbank", "pair": "boba_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:59.133201", "exchange": "bitbank", "pair": "boba_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:48.939530", "exchange": "bitbank", "pair": "boba_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.787935", "exchange": "bitbank", "pair": "boba_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 0.918}
+{"timestamp": "2025-05-17T08:25:28.299483", "exchange": "bitbank", "pair": "boba_jpy", "market": "range", "strategy": "rsi", "action": "sell", "score": 0.847}

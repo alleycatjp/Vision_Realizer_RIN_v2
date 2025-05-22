@@ -1,0 +1,13 @@
+{"timestamp": "2025-05-16T18:53:14.205990", "exchange": "bitbank", "pair": "xym_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.299490", "exchange": "bitbank", "pair": "xym_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.333661", "exchange": "bitbank", "pair": "xym_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T04:02:12.157881", "exchange": "bitbank", "pair": "xym_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:47.001146", "exchange": "bitbank", "pair": "xym_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.907792", "exchange": "bitbank", "pair": "xym_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.092655", "exchange": "bitbank", "pair": "xym_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:04.066477", "exchange": "bitbank", "pair": "xym_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:33.799894", "exchange": "bitbank", "pair": "xym_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:18:56.906575", "exchange": "bitbank", "pair": "xym_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:46.787306", "exchange": "bitbank", "pair": "xym_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.721533", "exchange": "bitbank", "pair": "xym_jpy", "market": "range", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:25:25.566400", "exchange": "bitbank", "pair": "xym_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 0.5}

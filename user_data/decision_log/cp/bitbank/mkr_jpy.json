@@ -1,0 +1,13 @@
+{"timestamp": "2025-05-16T18:53:14.231483", "exchange": "bitbank", "pair": "mkr_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T18:57:46.339093", "exchange": "bitbank", "pair": "mkr_jpy", "market": "undecided", "strategy": "none", "action": "none", "score": 0}
+{"timestamp": "2025-05-16T19:04:17.430675", "exchange": "bitbank", "pair": "mkr_jpy", "market": "trend", "strategy": "macd", "action": "hold", "score": 0.0}
+{"timestamp": "2025-05-17T04:02:12.194874", "exchange": "bitbank", "pair": "mkr_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:47.054677", "exchange": "bitbank", "pair": "mkr_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:46:54.943254", "exchange": "bitbank", "pair": "mkr_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:54:04.146859", "exchange": "bitbank", "pair": "mkr_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T06:56:05.819438", "exchange": "bitbank", "pair": "mkr_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:06:37.238737", "exchange": "bitbank", "pair": "mkr_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:00.672278", "exchange": "bitbank", "pair": "mkr_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T07:19:50.480012", "exchange": "bitbank", "pair": "mkr_jpy", "market": "insufficient", "strategy": "skip", "action": "none", "score": 0}
+{"timestamp": "2025-05-17T08:21:59.833311", "exchange": "bitbank", "pair": "mkr_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
+{"timestamp": "2025-05-17T08:25:30.073405", "exchange": "bitbank", "pair": "mkr_jpy", "market": "range", "strategy": "rsi", "action": "buy", "score": 1.0}
